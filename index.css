@@ -10,3 +10,19 @@
 #span{
     color: royalblue;
 }
+.section{
+    display: flex;
+    color: rgb(230, 27, 95);
+    background-color: darkgray;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    margin: 40px;
+    border: 2px solid blue;
+}
+#footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+    margin: 0px;
+}
