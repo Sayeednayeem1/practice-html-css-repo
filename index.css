@@ -20,12 +20,6 @@
     margin: 40px;
     border: 2px solid blue;
 }
-#footer{
-    color: white;
-    background-color: black;
-    text-align: center;
-    margin: 0px;
-}
 .eid-day{
     color: brown;
     text-align: center;
@@ -43,5 +37,12 @@
     color: tomato;
     background-color: pink;
     text-align: center;
+    padding: 10px;
+}
+#footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-weight: 700;
     padding: 10px;
 }
