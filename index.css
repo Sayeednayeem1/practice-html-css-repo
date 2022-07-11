@@ -26,3 +26,16 @@
     text-align: center;
     margin: 0px;
 }
+.eid-day{
+    color: brown;
+    text-align: center;
+    background-color: bisque;
+    margin: 50px;
+}
+#padding{
+    color: orangered;
+    background-color: darkgray;
+    text-align: center;
+    padding: 10px;
+    margin: 40px;
+}
