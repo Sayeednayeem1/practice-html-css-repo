@@ -39,3 +39,9 @@
     padding: 10px;
     margin: 40px;
 }
+#text-align{
+    color: tomato;
+    background-color: pink;
+    text-align: center;
+    padding: 10px;
+}
